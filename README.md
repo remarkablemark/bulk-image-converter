@@ -1,7 +1,7 @@
-# vite-react-tailwind-template
+# bulk-image-converter
 
-[![build](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/build.yml)
-[![test](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/test.yml)
+[![build](https://github.com/remarkablemark/bulk-image-converter/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/bulk-image-converter/actions/workflows/build.yml)
+[![test](https://github.com/remarkablemark/bulk-image-converter/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/bulk-image-converter/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/remarkablemark/bulk-image-converter/graph/badge.svg?token=1bLWyvZeUY)](https://codecov.io/gh/remarkablemark/bulk-image-converter)
 
 🖼️ Bulk image converter:
@@ -13,8 +13,8 @@
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/vite-react-tailwind-template.git
-cd vite-react-tailwind-template
+git clone https://github.com/remarkablemark/bulk-image-converter.git
+cd bulk-image-converter
 ```
 
 Install the dependencies:
