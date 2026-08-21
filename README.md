@@ -8,6 +8,8 @@
 
 - [Bulk Image Converter](https://remarkablemark.org/bulk-image-converter/)
 
+Read the [blog post](https://remarkablemark.org/blog/2026/08/21/bulk-image-converter/).
+
 ## Features
 
 - **Drag-and-drop or click to upload** multiple images at once
