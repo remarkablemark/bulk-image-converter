@@ -1,7 +1,7 @@
 {
   "name": "Bulk Image Converter",
   "short_name": "Bulk Image Converter",
-  "description": "🖼️ Bulk Image Converter",
+  "description": "🖼️ Convert multiple images in your browser. No uploads, no server, fully client-side.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
