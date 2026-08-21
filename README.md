@@ -4,9 +4,17 @@
 [![test](https://github.com/remarkablemark/bulk-image-converter/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/bulk-image-converter/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/remarkablemark/bulk-image-converter/graph/badge.svg?token=1bLWyvZeUY)](https://codecov.io/gh/remarkablemark/bulk-image-converter)
 
-🖼️ Bulk image converter:
+🖼️ Convert multiple images in your browser. No uploads, no server, fully client-side.
 
 - [Bulk Image Converter](https://remarkablemark.org/bulk-image-converter/)
+
+## Features
+
+- **Drag-and-drop or click to upload** multiple images at once
+- **Batch conversion** to WebP, JPEG, PNG, or AVIF
+- **Quality control** with a slider for lossy formats (WebP, JPEG, AVIF)
+- **ZIP download** of all converted images in one click
+- **Per-file status** tracking (pending, converting, done, error)
 
 ## Install
 
