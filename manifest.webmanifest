@@ -1,0 +1,17 @@
+{
+  "name": "Bulk Image Converter",
+  "short_name": "Bulk Image Converter",
+  "description": "🖼️ Convert multiple images in your browser. No uploads, no server, fully client-side.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
